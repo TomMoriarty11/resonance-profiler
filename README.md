@@ -10,7 +10,7 @@ Coherence mapping across temporal and semantic layers
 # Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resonance-profiler.git
+git clone https://github.com/TomMoriarty11/resonance-profiler.git
 cd resonance-profiler
 python3 -m venv venv
 source venv/bin/activate
